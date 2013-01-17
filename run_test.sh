@@ -1,1 +1,1 @@
-echo 'running test'
+echo 'running test' > ./test_result
